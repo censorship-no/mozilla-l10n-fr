@@ -928,6 +928,14 @@ web sites through the HTML Notifications API. -->
 <!ENTITY crash_handler_notifications_channel "Rapporteur de plantage de &brandShortName;">
 
 <!-- <CENO> -->
+<!-- Home page browsing mode reminder. -->
+<!ENTITY ceno_home_mode_description "Utilisez les onglets normaux pour partager du contenu avec d'autres utilisateurs de CENO. Utilisez des onglets privés pour éviter le partage, ou pour les pages qui nécessitent une connexion. Appuyez ici pour en savoir plus.">
+<!-- TRANSLATORS: Keep the URL as is unless the section has been translated. -->
+<!ENTITY ceno_mode_manual_link "https://censorship.no/user-manual/en/concepts/public-private.html">
+
+<!-- Extra paragraph in private tab panel. -->
+<!ENTITY ceno_private_tab_panel_description "CENO ne partagera pas le contenu des onglets privés avec d'autres utilisateurs. Vous pouvez visiter en toute sécurité des sites qui nécessitent une connexion. Une connexion vers Internet est cependant nécessaire.">
+
 <!-- "No Wi-Fi" dialog -->
 <!ENTITY ceno_wifi_disconnected_dialog_title "Avertissement du Navigateur CENO">
 <!ENTITY ceno_wifi_disconnected_dialog_description "Il est recommandé d’utiliser CENO lorsque vous disposez d’une connexion Wi-Fi car il peut consommer plus de données qu’attendu. Vous souhaiterez peut-être arrêter CENO lors de l’utilisation de données mobiles.">
